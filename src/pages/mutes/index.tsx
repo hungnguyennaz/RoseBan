@@ -38,8 +38,8 @@ export default function MuteList({ page }: { page: number }) {
   return (
     <>
     <Head>
-        <title>Mutes | Punishments / ThiccMC</title>
-        <meta name="description" content="Mutes | Punishments / ThiccMC" />
+        <title>Mutes | Punishments / RoseMC</title>
+        <meta name="description" content="Mutes | Punishments / RoseMC" />
     </Head>
     <div className="content">
         <div className="centered">

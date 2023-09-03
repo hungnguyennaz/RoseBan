@@ -45,7 +45,7 @@ export default function BanInfo({ user, page }: { user: string, page: number }) 
     return (
         <>
         <Head>
-            <title>{ (isLoading ? `Pending...` : isError ? `Error` : data == null ? "Not found" : `Moderator: ${data.user}`) + ' | Punishments / ThiccMC'}</title>
+            <title>{ (isLoading ? `Pending...` : isError ? `Error` : data == null ? "Not found" : `Moderator: ${data.user}`) + ' | Punishments / RoseMC'}</title>
         </Head>
         <div className="content">
             <div className="centered">

@@ -5,7 +5,7 @@ export default function Footer() {
         <div className="footer" style={{borderTopLeftRadius: '10px', borderTopRightRadius: '10px'}}>
             <div className="row" style={{marginLeft: '0px', marginRight: '0px'}}>
             <div className="col-md-5 col-l">
-                <p style={{marginBottom: '0px'}}><span style={{color: 'rgb(173, 181, 189)'}}>© 2022 ThiccMC. All rights reserved!</span><br /></p>
+                <p style={{marginBottom: '0px'}}><span style={{color: 'rgb(173, 181, 189)'}}>© 2023 RoseMC. Mad witgh love by thiccmc dev!</span><br /></p>
             </div>
             <div className="col-md-7 col-r">
                 <ul className="list-inline" style={{marginBottom: '0px'}}>

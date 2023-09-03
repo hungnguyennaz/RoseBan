@@ -38,8 +38,8 @@ export default function BanList({ page }: { page: number }) {
   return (
     <>
     <Head>
-        <title>Bans | Punishments / ThiccMC</title>
-        <meta name="description" content="Bans | Punishments / ThiccMC" />
+        <title>Bans | Punishments / RoseMC</title>
+        <meta name="description" content="Bans | Punishments / RoseMC" />
     </Head>
     <div className="content">
         <div className="centered">

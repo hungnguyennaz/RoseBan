@@ -44,7 +44,7 @@ export default function BanInfo({ id }: { id: number }) {
     return (
         <>
         <Head>
-            <title>{ (isLoading ? `Pending...` : isError ? "Error" : data.data != null ? `Ban #${id}` : "Not found") + ' | Punishments / ThiccMC'}</title>
+            <title>{ (isLoading ? `Pending...` : isError ? "Error" : data.data != null ? `Ban #${id}` : "Not found") + ' | Punishments / RoseMC'}</title>
         </Head>
         <div className="content">
             <div className="centered">

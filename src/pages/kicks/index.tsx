@@ -38,8 +38,8 @@ export default function KickList({ page }: { page: number }) {
   return (
     <>
     <Head>
-        <title>Kicks | Punishments / ThiccMC</title>
-        <meta name="description" content="Kicks | Punishments / ThiccMC" />
+        <title>Kicks | Punishments / RoseMC</title>
+        <meta name="description" content="Kicks | Punishments / RoseMC" />
     </Head>
     <div className="content">
         <div className="centered">

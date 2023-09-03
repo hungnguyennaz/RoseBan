@@ -9,7 +9,7 @@ export default function Error({ statusCode }: { statusCode: number }) {
     return (
         <>
             <Head>
-                <title>Home | Punishments / ThiccMC</title>
+                <title>Home | Punishments / RoseMC</title>
                 <meta name="description" content="Something went wrong!" />
             </Head>
             <div className="content">

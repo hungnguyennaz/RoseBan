@@ -38,8 +38,8 @@ export default function WarnList({ page }: { page: number }) {
   return (
     <>
     <Head>
-        <title>Warns | Punishments / ThiccMC</title>
-        <meta name="description" content="Warns | Punishments / ThiccMC" />
+        <title>Warns | Punishments / RoseMC</title>
+        <meta name="description" content="Warns | Punishments / RoseMC" />
     </Head>
     <div className="content">
         <div className="centered">

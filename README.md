@@ -1,5 +1,5 @@
-# ThiccBan
-An alternative website for [LiteBans Web](https://www.spigotmc.org/resources/litebans.3715). Customized for use at [ThiccMC Network](https://thiccmc.com).
+# RoseBan
+A fork of [ThiccBan](https://github.com/ThiccMC/ThiccBan). Customized for use at [RoseMC Network](https://dsc.gg/rosemc).
 
 ### Features
 - [x] Next.JS (with Typescript)

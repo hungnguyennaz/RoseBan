@@ -17,7 +17,7 @@ export default function Header() {
         <nav className="navbar navbar-dark navbar-expand-md py-3 centered">
           <div className="container-fluid">
             <Link className="navbar-brand d-flex align-items-center" href="/" key="brand">
-              <Image className="rounded-circle" src="/img/xd.png" alt="logo" width={35} height={35} /><span style={{fontFamily: 'Minecraft'}}>ThiccMC</span>
+              <Image className="rounded-circle" src="/img/rosemc.png" alt="logo" width={35} height={35} /><span style={{fontFamily: 'Minecraft'}}>RoseMC</span>
             </Link>
             <button data-bs-toggle="collapse" className="navbar-toggler" data-bs-target="#navcol" style={{borderWidth: '0px'}}>
               <span className="visually-hidden">Toggle navigation</span><span className="navbar-toggler-icon" />

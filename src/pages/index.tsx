@@ -37,15 +37,15 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Home | Punishments / ThiccMC</title>
-        <meta name="description" content="Welcome to ThiccMC!" />
+        <title>Home | Punishments / RoseMC</title>
+        <meta name="description" content="Welcome to RoseMC punishments list page!" />
       </Head>
       <div className="content">
         <div className="centered">
           <div className="card center" style={{maxWidth: '500px', marginTop: '100px'}}>
             <div className="card-body">
               <div style={{marginBottom: '16px'}}>
-                <h3 style={{fontFamily: 'Minecraft', marginBottom: '0px'}}>ThiccMC</h3>
+                <h3 style={{fontFamily: 'Minecraft', marginBottom: '0px'}}>RoseMC</h3>
                 <h5 className="text-muted mb-2" style={{marginTop: '0px'}}>Punishments list</h5>
               </div>
               <div style={{marginBottom: '16px'}}>
