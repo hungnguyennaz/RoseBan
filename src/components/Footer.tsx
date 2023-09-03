@@ -10,7 +10,7 @@ export default function Footer() {
             <div className="col-md-7 col-r">
                 <ul className="list-inline" style={{marginBottom: '0px'}}>
                 <li className="list-inline-item"><Link className="link-light" href="/" key="f-home">Home</Link></li>
-                <li className="list-inline-item"><a className="link-light" href="https://status.qtpc.tech" target="_blank" rel="noreferrer">Status</a></li>
+                <li className="list-inline-item"><a className="link-light" href="https://status.rosemc.net" target="_blank" rel="noreferrer">Status</a></li>
                 <li className="list-inline-item"><a className="link-light" href="/discord" target="_blank" rel="noreferrer">Discord</a></li>
                 <li className="list-inline-item"><a className="link-light" href="/github" target="_blank" rel="noreferrer">GitHub</a></li>
                 </ul>
